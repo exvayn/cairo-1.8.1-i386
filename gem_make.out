@@ -1,0 +1,24 @@
+/home/yury/.rbenv/versions/2.0.0-p247/bin/ruby extconf.rb
+checking for GCC... yes
+checking for cairo version (>= 1.2.0)... *** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/yury/.rbenv/versions/2.0.0-p247/bin/ruby
+	--with-pkg-config
+	--without-pkg-config
+	--with-override-variables
+	--without-override-variables
+no
